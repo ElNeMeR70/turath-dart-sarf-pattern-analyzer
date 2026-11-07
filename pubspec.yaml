@@ -1,0 +1,5 @@
+name: turath_dart_sarf_pattern_analyzer
+description: "Arabic Morphological Pattern (Al-Mizan Al-Sarfi fa-'a-la) Analyzer"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
